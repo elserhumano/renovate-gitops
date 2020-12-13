@@ -15,4 +15,4 @@ argo-cd:
       - --insecure
     config:
       repositories: |
-        - url: https://github.com/mjpitz/renovate-gitops.git
+        - url: https://github.com/elserhumano/renovate-gitops.git

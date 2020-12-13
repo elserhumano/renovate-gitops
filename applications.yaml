@@ -8,7 +8,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/mjpitz/renovate-gitops.git
+    repoURL: https://github.com/elserhumano/renovate-gitops.git
     targetRevision: HEAD
     path: applications/
     directory:
